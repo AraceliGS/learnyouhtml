@@ -1,0 +1,1 @@
+var message = alert('Esta página funciona correctamente.');
